@@ -1,0 +1,2 @@
+Yesterday we created a folder for github and entered a repostory for it.
+
