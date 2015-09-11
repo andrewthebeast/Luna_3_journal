@@ -1,0 +1,5 @@
+What is pseudocode?
+pseudocode is a fake code that will help you find a real code.
+
+What is pseudocode good for?
+Pseudocode is good for solving problems.
