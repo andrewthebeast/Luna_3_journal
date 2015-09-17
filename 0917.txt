@@ -1,0 +1,7 @@
+The five diffrent java types are_
+  -int
+  -float
+  -short long and duoble
+  -char and 
+  -boolean
+ they are good for working and directing files.
