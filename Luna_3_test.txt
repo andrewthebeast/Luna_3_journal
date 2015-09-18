@@ -1,0 +1,2 @@
+this is a test journal to pratice entering things into git hub.
+
