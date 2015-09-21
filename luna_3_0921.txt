@@ -1,0 +1,6 @@
+I have not recived all credit for my journals in my github.
+
+we need to name all journals with it like 
+ex: astname_classperiod_date.txt
+
+the command to copy all things in a directory into a new directory is cp.
