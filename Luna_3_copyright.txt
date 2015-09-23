@@ -3,9 +3,17 @@ permission.
 Copyleft- when work can be coppied and edited
 Fair Use- when you can copy work without permission.
 Free Speech-freee to paste work and use it
-Freeware-sortware that you candownload for free without copyrights
+Freeware-sortware that you can download for free without copyrights
 Public Domain-free paprers without copyright
 File-shareing-is free and dose not need permission to share
 Privacy-is something that a lot of us dont have
 Plagiarism-when someone copies and pastes something without permission.
-
+Infringement-disobeying a law or contract
+Proprietary-the owner or having ownership
+Open Scorce-free code or software for public use
+GNU GPL- a program that you can modify under GNU terms and condition
+License-a permit to legaly use or own something
+MIT License-a licenes to use the MIT's programs and work
+Apache License-a software license from the ASF
+EULA-a contract between an app's publisher and the app's user
+Creative Commons-a company that provides legal licenses for authors and artists
