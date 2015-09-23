@@ -17,3 +17,8 @@ MIT License-a licenes to use the MIT's programs and work
 Apache License-a software license from the ASF
 EULA-a contract between an app's publisher and the app's user
 Creative Commons-a company that provides legal licenses for authors and artists
+Where have you seen this licence before-on free things like gimp
+What is it saying-that you can change an app or software device
+What implications does this license have for the author? For the user?that the user is protected form the author
+When would you use this license? When you try to modify a softwares code
+When would you not use it?when your trying to sell a code from GNU for money
