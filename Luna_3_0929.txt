@@ -1,0 +1,3 @@
+Methods are procuders for accomplishing things.
+They are good to use in the problem sovling process.
+we can use methods to find primes in netbeans
