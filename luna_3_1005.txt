@@ -1,0 +1,4 @@
+What are CODE COMMENTS? What are they good for?
+
+CODE COMMENTS are things that tell you why a code is doing a certain thing.
+They are good for commenting out or commenting in codes.
