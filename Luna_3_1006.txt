@@ -1,0 +1,7 @@
+Methods are subprograms inside programs
+
+Class are the details in programs and main classes
+
+Instances are varibles that are defined in the class
+
+Class methods are the things that descirbe the class and the methods
