@@ -1,0 +1,8 @@
+What is a Java Class?
+A ckass in Java is is where individual objects are made and created.
+
+What might a Java Class be for JavaFX?
+A regular class but with more imported libaries.
+
+What might be a method for class?
+A forloop or a boolean.
