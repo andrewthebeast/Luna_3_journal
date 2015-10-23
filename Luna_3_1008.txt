@@ -1,0 +1,15 @@
+What are your tentative thoughts / plans for your art project?
+My thoughts on the project s that this project will be a true challange and 
+will take a long time to complete.
+
+What might be methods you will use?
+Some of the methods that i might use are strings and chars.
+
+How might you incorporate a for loop?
+I could incorporate a for loop in the main class or in diffrent classes.
+
+How might you incorporate, if, else if, else?
+I could also incorporateby putting it the main class.
+
+What math might you use? 
+I might use addition and multiplaction.
