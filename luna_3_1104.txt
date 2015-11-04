@@ -1,0 +1,14 @@
+November 4 2015
+
+What is a method?
+A method is a statement that will help determine what the computer will print if a certian thing happens.
+
+Which methods did you use and how did you use them in your guessing game program?
+I used methods that make you play the game and have a limited amount of guesses.
+
+What is a while loop?
+A while loop is a loop that will go on until you finish or win the game.
+
+How did you use a while loop, boolean, and counter in your guessing game?
+I use a while loop in my game to make the player have a limited amount of guesses to figure out a number.
+
