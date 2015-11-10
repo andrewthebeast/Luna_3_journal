@@ -1,0 +1,10 @@
+11-10-2015
+
+I can track what the player dose and what challengtes they complete by making
+a method that remembers what the have and put a return method that 
+shows what they did.
+
+I can track the HP by also putting a method that can track it and find 
+what type of hits and what points they have.
+
+I can also do the same to track the items they have.
