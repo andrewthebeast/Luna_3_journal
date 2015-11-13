@@ -1,0 +1,6 @@
+11-13-2015
+
+How will use a while lop in your game?Why?
+I will probably not use a while loop in my game becaus ethey are hard to work with and they will probably not be used.
+
+I will use lost of methods in this game that way the player can play onn till the game ends.
