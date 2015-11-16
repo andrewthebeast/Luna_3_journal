@@ -1,0 +1,12 @@
+11-11-2015
+
+In your game, what challenges must your player solve?
+In my game my player must find out who to make friends or enemys with and 
+see if he can survive this crisis that he is in.
+
+How will you specifically track whether they have been solved?
+I will track what challenges they complete by setting a method to.
+
+Provide variable names and types. Classes if applicable.
+ I dont have any right now.
+
