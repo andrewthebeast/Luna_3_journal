@@ -1,0 +1,8 @@
+No, really, How will you use methods in your game? Why?
+I will use methods to track the players Progress and which paths they choose.
+
+Be specific.
+I will use the methods to help the player follow a path that they can use to loose or win the game.
+
+What values will you pass to them.
+I will pass values that can keep them alive or kill them.
