@@ -1,0 +1,9 @@
+January 28 2015
+
+What is this?: 
+public void render(GameContainer gc, StateBasedGame sbg, Graphics g) 
+throws SlickException {
+
+Is it a class or method? How do you know?
+This code is a Class because it has values in the calling of the class and is 
+like some of the code in our game.
