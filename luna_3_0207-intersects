@@ -1,0 +1,5 @@
+Febuary 8th, 2016
+
+How would one check to see whether weapons damage enemies or objects in Slick?
+One would check if a weapon intersects with a object by setting up a if 
+statement. That checks if an object intersects with another.
