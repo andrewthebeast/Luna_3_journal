@@ -1,0 +1,13 @@
+How can / will you make the orb move in the direction you are facing?
+I will make the orb move with me by setting up an animation for it and setting
+different ids fior the animations for it.
+
+Explain and provide specific code.
+I will make a sprite sheet for it and make it interfear with th e way the 
+player moves.
+Example code:
+if (input.isKeyDown(Input.KEY_3)) {
+            isattacking = true;
+            if (Player.direction == 1) {
+                player.sprite = orb1.right;
+}
