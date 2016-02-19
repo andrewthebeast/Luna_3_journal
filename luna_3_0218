@@ -1,0 +1,54 @@
+Feb. 18, 2016
+
+Explain this code:
+public Animation Playeranime, up, down, left, right, sprite, wait;
+	public Player() throws SlickException {
+    	SpriteSheet runningSS = new SpriteSheet(
+            	"res/ogrespritesheet.png", 64, 64, 0);
+    	up = new Animation();
+    	up.setAutoUpdate(true);
+    	up.addFrame(runningSS.getSprite(0, 8), 330);
+    	up.addFrame(runningSS.getSprite(1, 8), 330);
+    	up.addFrame(runningSS.getSprite(2, 8), 330);
+    	up.addFrame(runningSS.getSprite(3, 8), 330);
+    	up.addFrame(runningSS.getSprite(4, 8), 330);
+    	up.addFrame(runningSS.getSprite(5, 8), 330);
+   	up.addFrame(runningSS.getSprite(6, 8), 330);
+    	up.addFrame(runningSS.getSprite(7, 8), 330);
+    	up.addFrame(runningSS.getSprite(8, 8), 330);
+
+This code makes the animation for the character when they move in the up 
+direction.
+
+Why would it be unrealistic / unproductive  to memorize Slick syntax - what 
+are the skills we were trying to practice?
+It would be unrealistic because slick does it for us and we will eventually 
+memorize it by doing it over again and again.
+
+What is an array?
+An array is a list of objects in java.
+
+How do you make an array? Give an example.
+You can make an array by doing the following:
+int[] hi = new int[hi];
+hi = (“Hello”)
+
+What is an ArrayList?
+An ArrayList is an array that draws objects in an order and sets them in the 
+same order.
+
+How do you make an arraylist?
+You can make an ArrayList by implementing the following code:
+public ArrayList <Enemy> enemiez = new ArrayList();
+
+In Netbeans, make an arraylist. Use autocompletion with the created arraylist 
+(the '.' and pop-up):
+What are three useful arraylist methods that you identified?
+The three useful arraylists that i identified were the int String and boolean 
+arraylists.
+
+What is the difference between an array and an arraylist?
+One you can change and one you can’t
+
+How could we make a health counter for an avatar?
+public static int Health = 150;
