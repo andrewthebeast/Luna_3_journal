@@ -1,0 +1,19 @@
+Arduino uses a variant of the C programming language.
+
+What differences and similarites have you noticed? Provide at least 3 and explain in complete sentences.
+That Java is a Object-oriented programming system, and that the for loops and if statments are the same.
+So are the declaring variables.
+
+What code adaptations have you made? [Or will you make if none to date. Note: 'none' is not a valid answer]
+I can adapt to different coding programs pretty easily but mabey some other things will be different.
+
+What is required for a circuit?
+To build a curit you need a RedBoard and a Breadboard, and wires and resistors along with the other supplies 
+you will need to make what you want to make.
+
+How are programs compiled with Arduino?
+Programs made on the Arduino using the bC language, which is uploaded to a Breadboard and completed.
+
+Describe the projects you have completed this/last week and what you have learned from them. 
+I have completed the example programs that were in the book like making th elight dim and brighten 
+when you turn the button. Or make the buzzer play a song. You 
