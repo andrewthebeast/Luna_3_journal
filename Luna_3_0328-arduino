@@ -8,11 +8,11 @@ What code adaptations have you made? [Or will you make if none to date. Note: 'n
 I can adapt to different coding programs pretty easily but mabey some other things will be different.
 
 What is required for a circuit?
-To make any kind of circut you nedd a power source and a ground base tthat is connected by wires.
+To make any kind of circut you need a power source and a ground base that is connected by wires.
 
 How are programs compiled with Arduino?
-Programs made on the Arduino using the bC language, which is uploaded to a Breadboard and completed.
+Programs made on the Arduino by using the C language, which is uploaded to a Breadboard and completed.
 
 Describe the projects you have completed this/last week and what you have learned from them. 
 I have completed the example programs that were in the book like making the light dim and brighten 
-when you turn the button. Or make the buzzer play a song.
+when you turn the button, or make the buzzer play a song.
