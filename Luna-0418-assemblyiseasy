@@ -1,0 +1,23 @@
+April 18th, 2016
+
+For what computational reason did you type elf64?
+We typed Elf64 that way we could specify which machine we are using and 
+what version we have of that machine.
+
+Why did you use ld?
+We used ld to invoke the linker.
+
+Why did you not have to use chmod to make sample executable?
+Chmod is when you need premission , and we already have permission.
+
+Now - change the code to print your name. You should change the program 
+so that it actually prints your name.
+
+What problem did you have to solve to get it to work?
+You would make the byte size larger and modify the character count.
+
+Is assembly 'quick and easy'? Why or why not?
+No because you have to type a lot more when in java you just do system.out.println("Assembly is not easy!")
+
+What does 'low level' actually mean with regards to programming languages?
+When you make something it is closer to what the computer will read.
