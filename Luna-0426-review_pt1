@@ -1,0 +1,13 @@
+April 26th
+
+Write a Java method to return the cubed value of some number.
+static void Cubed(int a, int b, int c){
+	a*a = b;
+	b*a = c;
+	System.out.println(c);
+}
+
+Write a Arduino function to return a vale of some number.
+int cubed;
+cubed = (num * num) * num;
+return cubed;
