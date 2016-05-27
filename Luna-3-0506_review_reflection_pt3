@@ -1,0 +1,41 @@
+Given mymap[67][43], Which is the X coordinate? How does this happen?
+
+	
+Write the code from line a and explain what it does.
+
+	if(i == 0) {
+	System.out.print("8888");
+}
+The code in line a checks if i == 0, and if i==0 it will print out 8888.
+
+
+Write the code from line b and explain what it does.
+
+	System.out.print(map[i][j]);
+The code in line b prints out the map.
+
+
+Write the code from line c and explain what it does.
+
+	System.out.println(".");
+The code in lice c prints out a peroid.
+
+Write the code from line d and explain what it does.
+
+	System.out.println(map[i][j]);
+
+The code in line d prints out the map.
+
+Explain how to use a boolean with a while loop. Provide a very specific use case and
+code example.
+In order to use a while loop you need to set a boolean, then declare the boolean in the while loop.
+while(playing){
+Array();
+//playing is the boolean.
+}
+
+Explain the use of static.
+The use of static is to share a databit in differet classes and methods.
+
+Provide an example of how you could use an object with your game. Give a code example.
+I could use a gun object in my game.
