@@ -1,0 +1,34 @@
+May 2nd
+
+What is an Array?
+An array is a list that contains only one data type;
+
+How does one make a simple array of Strings?
+
+
+What is the syntax for a 2D array?
+char[][] array = new char[10][10];
+
+What is the syntax for a 3D array?
+char[][][] array = new char [10][10][10];
+
+What is the syntax for a while loop?
+while(Playing) {
+Array();
+}
+
+Why use while loops in your game?
+You can use a while loop to run a method or statement over and over.
+
+Your game should be in a method outside of the main, how will you call your game?
+You can put a method in a while loop, which will be in the main class.
+
+Why was it reccommended to use .toLowerCase() with your Scanner input?
+It is good to use .toLowerCase() because the user's input will not be case sensitive.
+
+You should use different methods when moving the protagonist and check for intersections.
+How and why?
+That way the game can check for different things at the same time.
+
+What values will you pass across methods? How and why?
+A players x and y coordinates or their health.
