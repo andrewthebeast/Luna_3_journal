@@ -1,0 +1,16 @@
+Explain casting, up-casting, down-casting.
+
+Up-casting is when an object is in a group and the object acts
+as if it is on its own.
+Down-casting is when an object can manipulate its self over 
+and over again.
+
+Ex of up-casting:
+int bubbles = 10;
+double foam;
+foam = bubbles;
+
+How to change a string to a char.
+char hi = 'I';
+string hello;
+hello = "" + hi;
