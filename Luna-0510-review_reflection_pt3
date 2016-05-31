@@ -1,0 +1,15 @@
+public class Hero(){
+  public int heroHealth = 100;
+  public int heroScore = 0;
+  public int bullets = 10;
+  static String Name;
+  public int level = 1;
+  public int herox = 5;
+  public int heroy = 3;
+}
+
+static void Name(){
+  System.out.println("Please enter your name.");
+  Scanner name = new Scanner(System.in);
+  Name = name.nextLine().toLowerCase();
+}
